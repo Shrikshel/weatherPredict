@@ -6,6 +6,7 @@ I tested the applications's outputs with weather predictions as given in website
 
 The beauty of this algorithm is that it lends itself to scale, parallelism in processing and aggregation and distributed structure to predict using simple devices. Also as the processing, storage and other requirements are low, this can be used directly on low power devices like the raspberry pi.
 
+
 Usage :
 Currently the application uses Python 2.7, Pandas, numpy and Scipy. The tests use matplotlib and seaborn, but these are optional.
 Install Python2.7, pandas, numpy and scipy.
